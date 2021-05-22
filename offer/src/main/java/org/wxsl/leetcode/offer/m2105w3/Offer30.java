@@ -1,4 +1,4 @@
-package org.wxsl.leetcode.offer.m2105.w3;
+package org.wxsl.leetcode.offer.m2105w3;
 
 /**
  * 包含min函数的栈

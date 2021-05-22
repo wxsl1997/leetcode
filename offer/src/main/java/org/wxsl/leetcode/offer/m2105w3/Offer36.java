@@ -1,4 +1,4 @@
-package org.wxsl.leetcode.offer.m2105.w3;
+package org.wxsl.leetcode.offer.m2105w3;
 
 /**
  * 二叉搜索树与双向链表

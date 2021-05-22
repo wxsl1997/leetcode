@@ -1,4 +1,4 @@
-package org.wxsl.leetcode.offer.m2105.w3;
+package org.wxsl.leetcode.offer.m2105w3;
 
 
 import java.util.*;
@@ -42,7 +42,6 @@ public class Offer38 {
                 continue;
             }
             set.add(chars[cur]);
-
 
             //追加字符
             builder.append(chars[cur]);

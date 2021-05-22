@@ -1,4 +1,4 @@
-package org.wxsl.leetcode.offer.m2105.w3;
+package org.wxsl.leetcode.offer.m2105w3;
 
 /**
  * 1～n 整数中 1 出现的次数

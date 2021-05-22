@@ -1,4 +1,4 @@
-package org.wxsl.leetcode.offer.m2105.w3;
+package org.wxsl.leetcode.offer.m2105w3;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
