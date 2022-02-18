@@ -12,6 +12,14 @@
 
 #### 19 [动态规划: 正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/)
 
+#### 24 [数据结构: 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)
+
 ### m2105w4
 
-#### 24 [数据结构: 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)
+#### 54 [数据接口: 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)
+
+#### 59 [数据结构: 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
+
+#### 20 [数学逻辑: 表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/submissions/)
+
+
