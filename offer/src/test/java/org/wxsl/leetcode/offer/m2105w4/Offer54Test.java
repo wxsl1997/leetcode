@@ -8,8 +8,8 @@ class Offer54Test {
 
     private static final int K = 1;
 
-    Offer54.TreeNode node2 = new Offer54.TreeNode(2, null, null);
     Offer54.TreeNode node4 = new Offer54.TreeNode(4, null, null);
+    Offer54.TreeNode node2 = new Offer54.TreeNode(2, null, null);
     Offer54.TreeNode node1 = new Offer54.TreeNode(1, null, node2);
     Offer54.TreeNode node3 = new Offer54.TreeNode(3, node1, node4);
 
