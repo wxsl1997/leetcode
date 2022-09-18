@@ -2,7 +2,7 @@ package org.wxsl.leetcode.offer.m2105w4;
 
 import java.util.PriorityQueue;
 
-public class Office41 {
+public class Offer41 {
 
     public static class MedianFinder {
 
