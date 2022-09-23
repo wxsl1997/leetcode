@@ -31,3 +31,7 @@
 #### 41 [困难-优先队列: 数据流中的中位数](https://leetcode.cn/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)
 
 #### 37 [困难-树状数组: 序列化二叉树](https://leetcode.cn/problems/xu-lie-hua-er-cha-shu-lcof/)
+
+### m2106w1
+
+#### 14 [中等-动态规划: 剪绳子](https://leetcode.cn/problems/xu-lie-hua-er-cha-shu-lcof/)
