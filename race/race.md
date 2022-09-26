@@ -12,3 +12,15 @@
 
 ### week312
 
+
+## quarter
+### p22
+#### 1 [简单-气温变化趋势](https://leetcode.cn/problems/6CE719/)
+
+#### 2 [中等-交通枢纽](https://leetcode.cn/problems/D9PW8w/)
+
+#### 3 [中等-弹珠游戏](https://leetcode.cn/problems/EXvqDp/)
+
+#### 4 [中等-二叉树灯饰](https://leetcode.cn/contest/season/2022-fall/problems/U7WvvU/) 
+
+#### 5 [困难-舒适的湿度](https://leetcode.cn/contest/season/2022-fall/problems/3aqs1c/)
