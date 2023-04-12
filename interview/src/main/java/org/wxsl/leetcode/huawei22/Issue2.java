@@ -8,7 +8,7 @@ public class Issue2 {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
 
-        String[] nums = s.split("[ ]+");
+        String[] nums = s.split(" +");
         int len = nums.length;
 
         int stepLen = len / 2;
