@@ -1,4 +1,4 @@
-package org.wxsl.leetcode.race.quarter.p22;
+package org.wxsl.leetcode.race.quarter.a22;
 
 
 import java.util.*;
