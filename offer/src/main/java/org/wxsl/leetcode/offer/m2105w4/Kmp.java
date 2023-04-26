@@ -36,9 +36,9 @@ public class Kmp {
 
     public static int[] getNext(String ps) {
 
-        char[] p = ps.toCharArray();
+        char[] cs = ps.toCharArray();
 
-        int[] next = new int[p.length];
+        int[] next = new int[cs.length];
 
         // 当j=0时不匹配, 此时需要i指针后移
         next[0] = -1;
@@ -47,9 +47,9 @@ public class Kmp {
 
         int k = -1;
 
-        while (j < p.length - 1) {
+        while (j < cs.length - 1) {
 
-            if (k == -1 || p[j] == p[k]) {
+            if (k == -1 || cs[j] == cs[k]) {
                 // next[j+1] == k + 1 == next[j] + 1
                 ++k;
                 ++j;

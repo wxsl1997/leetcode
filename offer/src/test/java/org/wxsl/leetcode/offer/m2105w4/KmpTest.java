@@ -19,7 +19,7 @@ class KmpTest {
 
     @Test
     void getNext() {
-        String pattern = "abcabd";
+        String pattern = "abcabds";
 
         int[] next = Kmp.getNext(pattern);
 
