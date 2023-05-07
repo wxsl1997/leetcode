@@ -1,4 +1,4 @@
-package org.wxsl.leetcode.race.quarter.s23;
+package org.wxsl.leetcode.race.quarter.s23p;
 
 import java.util.Arrays;
 

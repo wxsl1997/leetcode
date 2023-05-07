@@ -1,4 +1,4 @@
-package org.wxsl.leetcode.race.quarter.t22;
+package org.wxsl.leetcode.race.quarter.a22t;
 
 public class Issue2 {
 

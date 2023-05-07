@@ -1,4 +1,4 @@
-package org.wxsl.leetcode.race.quarter.t22;
+package org.wxsl.leetcode.race.quarter.a22t;
 
 import java.util.HashMap;
 import java.util.Map;
